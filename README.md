@@ -2,7 +2,12 @@
   <br />
   <img src="https://raw.githubusercontent.com/user-attachments/assets/e4629842-2823-492b-8837-681ef5783803" width="200" />
   <br />
-  <h1>Open-Antigravity</h1>
+  <h1>Open-Antigravity </h1>
+  
+  
+  [Download](https://antigravity.google)
+  
+  
   <p><b>The Open-Source, Self-Hostable, AI-First Agentic Development Environment</b></p>
   
   <p>
