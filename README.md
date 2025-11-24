@@ -145,6 +145,10 @@ We believe this ambitious project can only be realized as a community. We welcom
 - **Look at the [open issues](https://github.com/your-username/open-antigravity/issues)** to find a task that interests you.
 - **Join our [Discord server](https://discord.gg/123456789)** to chat with the team and other contributors.
 
+## 📜 Disclaimer
+
+This tool is for educational and personal use only. It is not intended for production use. The developers are not responsible for any damage caused by this tool.
+
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
