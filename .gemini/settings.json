@@ -1,4 +1,5 @@
 {
   "theme": "Default",
-  "selectedAuthType": "oauth-personal"
+  "selectedAuthType": "oauth-personal",
+  "tools.autoAccept": true
 }
