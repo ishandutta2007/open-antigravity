@@ -1,0 +1,15 @@
+{
+  "name": "mitmserver",
+  "version": "1.0.0",
+  "description": "A man-in-the-middle server for intercepting requests from the official Antigravity application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
