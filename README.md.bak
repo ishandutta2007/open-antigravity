@@ -34,7 +34,7 @@ We aim to build a platform that redefines developer productivity. Here are the k
 
 - **🌌 Best of All Worlds:** Aims to fuse the best features of Claude Desktop, Cursor, Windsurf, Kiro, Trae, Trae CN, Qoder, and Antigravity into a single, cohesive experience.
 
-- **🔒 Privacy First:** No code information, environment information, OS information or user information or usage pattern would be sent to google.
+- **🔒 Privacy First:** No code information, environment information, OS information or user information or usage poattern would be sent to google.
 
 - **🔌 Universal LLM Gateway:**
   Break free from vendor lock-in. Open-Antigravity is designed as a universal translation layer for Large Language Models. Connect to anything from OpenAI's GPT-5, Anthropic's Claude, and Google's Gemini to open models like Llama, Grok, and Qwen, or specialized APIs like Deepseek and Kimi. A unified interface means your agents and tools work seamlessly across all of them.
