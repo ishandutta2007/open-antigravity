@@ -160,7 +160,7 @@ We believe this ambitious project can only be realized as a community. We welcom
 
 ## 📜 Disclaimer
 
-This tool has no relation with official version of google's antigravity. It is for educational and personal use only. It is not intended for production use. The developers are not responsible for any damage caused by this tool.
+This tool is independent and not affiliated with Google. "Antigravity" and "Gemini" are trademarks of Google LLC. It is not intended for production use. The developers of this tool are not responsible for any damage caused by this tool.
 
 ## 📜 License
 
