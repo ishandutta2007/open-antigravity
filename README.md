@@ -148,7 +148,7 @@ We believe this ambitious project can only be realized as a community. We welcom
 
 - **Check out the [Contribution Guide](./CONTRIBUTING.md)** to learn about our development process and how to get started.
 - **Look at the [open issues](https://github.com/ishandutta2007/open-antigravity/issues)** to find a task that interests you.
-- **Join our [Discord server](https://discord.gg/123456789)** to chat with the team and other contributors.
+- **Join our [Discord server]([https://discord.gg/123456789](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
 
 
 ## Star History
