@@ -77,10 +77,10 @@ Open-Antigravity is being designed as a modular, container-native application th
        │         │
  (Orchestrates)  (Routes to)
        │         │
-┌──────▼─────────▼─────────┐   ┌──────────────────┐
-│  Workspace Manager       │   │ AI Model Gateway │
-│ (Manages Docker contexts)│◀──▶ (Connects to LLMs) │
-└──────────────────────────┘   └──────────────────┘
+┌──────▼─────────▼─────────┐      ┌──────────────────┐
+│  Workspace Manager       │      │ AI Model Gateway │
+│ (Manages Docker contexts)│◀──▶ │(Connects to LLMs)│
+└──────────────────────────┘      └──────────────────┘
 ```
 
 - **Web UI:** A responsive frontend providing the editor and agent management interfaces.
