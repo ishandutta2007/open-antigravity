@@ -37,24 +37,9 @@ The IDE targets developers seeking to accelerate workflows, from hobbyists to en
 The IDE is structured as a modular system built on VS Code's open-source foundation. Core components include the editor, AI engine, agent manager, and UI extensions. AI interactions occur via API calls to external models, with local processing for privacy-sensitive tasks.
 
 ### Architecture Diagram
+![mermaid-diagram](https://github.com/user-attachments/assets/7c876492-9ee1-493e-8e9e-41a2ac8eb4d4)
 
-```mermaid
-graph TD
-    A[User Interface] --> B[Editor Core (VS Code Fork)]
-    A --> C[Mission Control Dashboard]
-    B --> D[Codebase Indexer]
-    B --> E[AI Engine]
-    C --> E
-    E --> F[Agent Manager]
-    F --> G[LLM APIs (Gemini, GPT, etc.)]
-    F --> H[Task Planner]
-    F --> I[Executor & Verifier]
-    D --> E
-    subgraph "Cross-Surface Integration"
-        B --> J[Terminal Agent]
-        B --> K[Browser Agent]
-    end
-```
+
 
 This diagram shows the flow from user inputs through the editor and mission control to the AI engine, which orchestrates agents via external LLMs. The codebase indexer provides context, while cross-surface agents enable workflows beyond the editor.
 
