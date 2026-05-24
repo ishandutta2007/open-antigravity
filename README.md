@@ -152,12 +152,17 @@ We believe this ambitious project can only be realized as a community. We welcom
 - **Look at the [open issues](https://github.com/ishandutta2007/open-antigravity/issues)** to find a task that interests you.
 - **Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
 
+## 🙌 Contributors
+
+<a href="https://github.com/ishandutta2007/open-antigravity/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ishandutta2007/open-antigravity" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-antigravity&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-antigravity&type=date&legend=top-left)
-
-
 
 
 ## 📜 Disclaimer
